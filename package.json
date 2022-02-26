@@ -1,0 +1,19 @@
+{
+  "name": "puc_nodejs_tarefa1",
+  "version": "1.0.0",
+  "description": "tarefa 01",
+  "main": "app0.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheuspsouza/puc_nodejs_tarefa1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheuspsouza/puc_nodejs_tarefa1/issues"
+  },
+  "homepage": "https://github.com/matheuspsouza/puc_nodejs_tarefa1#readme"
+}
