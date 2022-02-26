@@ -21,6 +21,6 @@
     "http": "0.0.1-security"
   },
   "engines": {
-    "node": "10.x"
+    "node": "10.19.0"
   }
 }
