@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/matheuspsouza/puc_nodejs_tarefa1/issues"
   },
-  "homepage": "https://github.com/matheuspsouza/puc_nodejs_tarefa1#readme"
+  "homepage": "https://github.com/matheuspsouza/puc_nodejs_tarefa1#readme",
+  "dependencies": {
+    "http": "0.0.1-security"
+  }
 }
